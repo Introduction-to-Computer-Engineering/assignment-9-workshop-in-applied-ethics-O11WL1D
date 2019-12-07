@@ -61,5 +61,19 @@ _Note: Class activities are group but individual submissions are required for gr
    2. Below, discuss how, in retrospect, you should have stated the points of the Code, to make it _robust to disruption_. _Note: Beware of the [paradox of self-amendment](https://legacy.earlham.edu/~peters/writing/psaessay.htm), which, in short, **"...arises when a rule is used as the authority for its own amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent with its original form, and sharpest of all when the change purports to be irrevocable."**_
 
 
+
+
+
+
+//--------------------------------------Link to write up---------------------------------------
+
+https://docs.google.com/document/d/1gJiq9K7PYMQyIQYL28W6trLgNeTAwH78uyvyPFv8-nE/edit?usp=sharing
+
+//---------------------------------------------------------------------------------------------
+
+
+
+
+
 #### The Band
 The derogatory expression _band of merry psychopaths_ is used in writing to refer to a small _group of irresponsible or deliberately hostile people with a lot of power_ to affect the world around them.
